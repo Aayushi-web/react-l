@@ -27,3 +27,7 @@ console.log(updatedDishes.push("bhallay"))
 console.log(updatedDishes)
 console.log(updatedDishes.pop())
 console.log(updatedDishes)
+let email="mishraayushi66@gmail.com";
+let boolean =email.includes("@");
+console.log(boolean)
+
